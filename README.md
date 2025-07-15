@@ -39,4 +39,4 @@ Google Fonts & Icons – for typography and icons
 # Purpose:
 This project was created for learning and practice. It helped me improve my skills in layout design, CSS styling, and responsive web design.
 
-Website link :
+Website link :https://srimathimithra.github.io/Tripadvisor/
